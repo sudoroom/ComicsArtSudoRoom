@@ -4,7 +4,10 @@ This comes from Thingiverse
 
 Downloading it and hacking it.
 
-For some reason it only downloads a scad file. the STL file is broken on thingivse.
+
+# Files
+
+* Start out with the mona_lisa.stl from Thingiverse
 
 # To-Do
 
